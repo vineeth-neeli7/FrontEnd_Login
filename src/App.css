@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+  background-color: #aab1e7;
+  margin : auto
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #c1d2d6;
+    text-decoration: none;
+    box-shadow: 10px 10px 5px grey;
+  }
+  
+  li {
+    display: block;
+    color: rgb(32, 25, 25);
+    padding: 8px 16px;
+    text-decoration: none;
+    
+  } 
+  
+  /* Change the link color on hover */
+ li:hover {
+    background-color: rgb(238, 149, 15);
+    color: rgb(10, 10, 10); 
+    text-decoration: none;
+  }
+
+  .form{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+    }
+    
+    .form{
+    position: relative;
+    z-index: 1;
+    background: #ffffff;
+    max-width: 360px; 
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+    }
+    
+    .input
+    {
+    font-family: "Roboto", sans-serif;
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 10px;
+    box-sizeing: border-box;
+    font-size: 14px;
+    }
+    
+    .form button
+    {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background:#ede3b2;
+    width: 100%;
+    padding: 10px;
+    color: #080000;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px grey;
+    }
+
+   
+    .main
+    {
+      background: #aab1e7;
+    } 
+
+    .submit1
+    {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background:#d4c2b8;
+    width: 20%;
+    padding: 10px;
+    color: #080000;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px grey;
+    }
+
+    
+   
+    
